@@ -1,2 +1,2 @@
-# prueba
-prueba de como insertar una repo desde vsc a github
+# ejemplos
+algunas cosas que he hecho en mi tiempo libre
